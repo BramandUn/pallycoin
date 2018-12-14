@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[pallycoin.qt-translation-010x]
+file_filter = src/qt/locale/pallycoin_<lang>.ts
+source_file = src/qt/locale/pallycoin_en.ts
+source_lang = en

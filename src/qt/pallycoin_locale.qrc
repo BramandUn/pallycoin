@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/pallycoin_bg.qm</file>
+        <file alias="de">locale/pallycoin_de.qm</file>
+        <file alias="en">locale/pallycoin_en.qm</file>
+        <file alias="es">locale/pallycoin_es.qm</file>
+        <file alias="fi">locale/pallycoin_fi.qm</file>
+        <file alias="fr">locale/pallycoin_fr.qm</file>
+        <file alias="it">locale/pallycoin_it.qm</file>
+        <file alias="it">locale/pallycoin_ja.qm</file>
+        <file alias="pl">locale/pallycoin_pl.qm</file>
+        <file alias="pt">locale/pallycoin_pt.qm</file>
+        <file alias="ru">locale/pallycoin_ru.qm</file>
+        <file alias="sk">locale/pallycoin_sk.qm</file>
+        <file alias="sv">locale/pallycoin_sv.qm</file>
+        <file alias="vi">locale/pallycoin_vi.qm</file>
+        <file alias="zh_CN">locale/pallycoin_zh_CN.qm</file>
+        <file alias="zh_TW">locale/pallycoin_zh_TW.qm</file>
+    </qresource>
+</RCC>

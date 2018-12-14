@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Pallycoin
+Comment=Pallycoin P2P Cryptocurrency
+Comment[fr]=Pallycoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Pallycoin, eşten eşe kriptografik sanal para birimi
+Exec=pallycoin-qt %u
+Terminal=false
+Type=Application
+Icon=pallycoin128
+MimeType=x-scheme-handler/pallycoin;
+Categories=Office;Finance;

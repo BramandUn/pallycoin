@@ -1,0 +1,27 @@
+# /etc/conf.d/pallycoind: config file for /etc/init.d/pallycoind
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/pallycoin/pallycoin.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/pallycoind"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/pallycoind.pid"
+
+# Where to write pallycoind data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/pallycoind"
+
+# User and group to own pallycoind process
+#BITCOIND_USER="pallycoin"
+#BITCOIND_GROUP="pallycoin"
+
+# Path to pallycoind executable
+#BITCOIND_BIN="/usr/bin/pallycoind"
+
+# Nice value to run pallycoind under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS="-disablewallet"
+
